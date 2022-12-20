@@ -7,3 +7,4 @@ kutu.addEventListener("mouseover", () => {
 kutu.addEventListener("mouseleave", () => {
     kutu.style.backgroundColor = "red"
 })
+console.log("selam");
